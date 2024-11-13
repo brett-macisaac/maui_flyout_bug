@@ -7,7 +7,7 @@ When the flyout initially appears, the hamburger icon is replaced with a 'back' 
 
 This can be seen if the flyout menu isn't completely opaque (see below).
 
-![Image of Problem](images/image.png)
+![Image of Problem](images/image.PNG)
 
 # How To Replicate
 
